@@ -23,7 +23,7 @@ BOLD='\033[1m'
 show_banner() {
     echo -e "${CYAN}${BOLD}"
     echo "╔════════════════════════════════════════════════════════════╗"
-    echo "║              OSINT RECON Tool - POC                         ║"
+    echo "║              OSINT RECON Tool - POC                        ║"
     echo "╚════════════════════════════════════════════════════════════╝"
     echo -e "${NC}"
 }
