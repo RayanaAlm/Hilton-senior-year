@@ -1,0 +1,10 @@
+# OSINT RECON Tool - Python Dependencies
+# Minimal dependencies for POC
+
+# No external dependencies required for POC
+# Uses only Python standard library:
+# - subprocess (built-in)
+# - json (built-in)
+# - tempfile (built-in)
+# - shutil (built-in)
+
