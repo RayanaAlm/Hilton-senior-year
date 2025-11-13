@@ -20,7 +20,7 @@ show_banner() {
     clear
     echo -e "${CYAN}${BOLD}"
     echo "╔════════════════════════════════════════════════════════════╗"
-    echo "║     OSINT RECON Tool - One-Click Installation            ║"
+    echo "║     OSINT RECON Tool - One-Click Installation              ║"
     echo "╚════════════════════════════════════════════════════════════╝"
     echo -e "${NC}"
 }
